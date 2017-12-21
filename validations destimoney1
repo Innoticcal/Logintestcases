@@ -1,0 +1,85 @@
+Sign up page:
+
+user name :
+
+1)Accepts only alphabates
+2)Numeric values are not accpted
+3)Special Characters are not accepted
+4)Only spaces are not accepted
+5)Maximum length of username field 3-40
+
+
+Email id:
+
+Valid email:
+
+invalid email:
+
+
+Phone number:
+
+1)Only number keypad should open
+2)Maximum length 10
+3)special symbols,dots,characters are not accepted
+4)10 time Zeros should show error message
+
+Password
+
+1)Maximum length of password field 6-40
+
+Terms and condition make it has link.
+
+OTP page:
+1)Only number key pad should open
+2)Each and every field accepts only one number
+3)Special characters,dots should not accept.
+
+Change mobile number:
+1)Only number keypad should open
+2)Maximum length 10
+3)special symbols,dots,characters are not accepted
+4)10 time Zeros should show error message
+
+Aadhar number:
+1)Only number keypad should open
+2)Maximum length 12
+3)special symbols,dots,characters are not accepted.
+
+Voter id front/back:
+1)Only jpeg format
+
+Voter id no:
+1)It accepts only alphabates and number
+2)Special characters,symbols should not allow.
+3)MAximum length 10-12
+
+
+Address:
+No validations
+
+
+city :
+Auto field
+Not editable
+
+
+ State :
+
+Auto field
+
+Not editable
+
+
+Bank account number:
+1)Maximum length 10-18
+2)Accepts only number
+3)Numbers keypad should open
+4)Dots are not allowed
+
+
+IFSC code:
+1)It should accepts alphabates,numbers only.
+
+
+Note :Any valid/invalid message starts with capital letter.
+		
